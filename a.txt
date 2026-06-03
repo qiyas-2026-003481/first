@@ -1,0 +1,2636 @@
+noise
+
+
+
+
+
+
+
+
+
+1
+artists
+
+
+
+
+
+
+
+1
+paint
+
+
+
+
+
+
+
+
+
+1
+murals
+
+
+
+
+
+
+
+
+1
+brick
+
+
+
+
+
+
+
+
+
+1
+walls
+
+
+
+
+
+
+
+
+
+1
+injecting
+
+
+
+
+
+1
+bursts
+
+
+
+
+
+
+
+
+1
+color
+
+
+
+
+
+
+
+
+
+1
+landscape
+
+
+
+
+
+1
+concrete
+
+
+
+
+
+
+1
+jungle
+
+
+
+
+
+
+
+
+1
+technology
+
+
+
+
+1
+hums
+
+
+
+
+
+
+
+
+
+
+1
+background
+
+
+
+
+1
+connecting
+
+
+
+
+1
+souls
+
+
+
+
+
+
+
+
+
+1
+invisible
+
+
+
+
+
+1
+waves
+
+
+
+
+
+
+
+
+
+1
+data
+
+
+
+
+
+
+
+
+
+
+1
+digital
+
+
+
+
+
+
+
+1
+signals
+
+
+
+
+
+
+
+1
+nightlife
+
+
+
+
+
+1
+brings
+
+
+
+
+
+
+
+
+1
+different
+
+
+
+
+
+1
+kind
+
+
+
+
+
+
+
+
+
+
+1
+energy
+
+
+
+
+
+
+
+
+1
+music
+
+
+
+
+
+
+
+
+
+1
+spilling
+
+
+
+
+
+
+1
+doorways
+
+
+
+
+
+
+1
+laughter
+
+
+
+
+
+
+1
+parks
+
+
+
+
+
+
+
+
+
+1
+even
+
+
+
+
+
+
+
+
+
+
+1
+dead
+
+
+
+
+
+
+
+
+
+
+1
+night
+
+
+
+
+
+
+
+
+
+1
+never
+
+
+
+
+
+
+
+
+
+1
+truly
+
+
+
+
+
+
+
+
+
+1
+sleeps
+
+
+
+
+
+
+
+
+1
+remaining
+
+
+
+
+
+1
+testament
+
+
+
+
+
+1
+human
+
+
+
+
+
+
+
+
+
+1
+ambition
+
+
+
+
+
+
+1
+grit
+
+
+
+
+
+
+
+
+
+
+1
+library
+
+
+
+
+
+
+
+1
+smells
+
+
+
+
+
+
+
+
+1
+aged
+
+
+
+
+
+
+
+
+
+
+1
+parchment
+
+
+
+
+
+1
+dust
+
+
+
+
+
+
+
+
+
+
+1
+lingering
+
+
+
+
+
+1
+thoughts
+
+
+
+
+
+
+1
+authors
+
+
+
+
+
+
+
+1
+since
+
+
+
+
+
+
+
+
+
+1
+passed
+
+
+
+
+
+
+
+
+1
+row
+
+
+
+
+
+
+
+
+
+
+
+2
+after
+
+
+
+
+
+
+
+
+
+1
+towering
+
+
+
+
+
+
+1
+wooden
+
+
+
+
+
+
+
+
+1
+shelves
+
+
+
+
+
+
+
+1
+hold
+
+
+
+
+
+
+
+
+
+
+1
+collective
+
+
+
+
+1
+knowledge
+
+
+
+
+
+1
+civilizations
+
+1
+have
+
+
+
+
+
+
+
+
+
+
+2
+risen
+
+
+
+
+
+
+
+
+
+1
+fallen
+
+
+
+
+
+
+
+
+2
+soft
+
+
+
+
+
+
+
+
+
+
+1
+filters
+
+
+
+
+
+
+
+1
+stained-glass
+
+1
+windows
+
+
+
+
+
+
+
+1
+casting
+
+
+
+
+
+
+
+1
+colorful
+
+
+
+
+
+
+1
+worn
+
+
+
+
+
+
+
+
+
+
+1
+leather
+
+
+
+
+
+
+
+1
+covers
+
+
+
+
+
+
+
+
+1
+books
+
+
+
+
+
+
+
+
+
+1
+scholar
+
+
+
+
+
+
+
+1
+sits
+
+
+
+
+
+
+
+
+
+
+1
+heavy
+
+
+
+
+
+
+
+
+
+3
+oak
+
+
+
+
+
+
+
+
+
+
+
+1
+desk
+
+
+
+
+
+
+
+
+
+
+1
+carefully
+
+
+
+
+
+1
+turning
+
+
+
+
+
+
+
+2
+fragile
+
+
+
+
+
+
+
+1
+pages
+
+
+
+
+
+
+
+
+
+1
+fingers
+
+
+
+
+
+
+
+1
+tremble
+
+
+
+
+
+
+
+1
+slightly
+
+
+
+
+
+
+1
+ink
+
+
+
+
+
+
+
+
+
+
+
+1
+stroke
+
+
+
+
+
+
+
+
+1
+yellowed
+
+
+
+
+
+
+1
+paper
+
+
+
+
+
+
+
+
+
+1
+represents
+
+
+
+
+1
+moment
+
+
+
+
+
+
+
+
+1
+discovery
+
+
+
+
+
+1
+or
+
+
+
+
+
+
+
+
+
+
+
+
+1
+plea
+
+
+
+
+
+
+
+
+
+
+1
+future
+
+
+
+
+
+
+
+
+1
+remembrance
+
+
+
+1
+silence
+
+
+
+
+
+
+
+1
+here
+
+
+
+
+
+
+
+
+
+
+2
+respectful
+
+
+
+
+1
+broken
+
+
+
+
+
+
+
+
+1
+occasional
+
+
+
+
+1
+muffled
+
+
+
+
+
+
+
+1
+thud
+
+
+
+
+
+
+
+
+
+
+1
+closing
+
+
+
+
+
+
+
+1
+volume
+
+
+
+
+
+
+
+
+1
+maps
+
+
+
+
+
+
+
+
+
+
+1
+forgotten
+
+
+
+
+
+1
+lands
+
+
+
+
+
+
+
+
+
+1
+are
+
+
+
+
+
+
+
+
+
+
+
+1
+tucked
+
+
+
+
+
+
+
+
+1
+away
+
+
+
+
+
+
+
+
+
+
+1
+drawers
+
+
+
+
+
+
+
+1
+showing
+
+
+
+
+
+
+
+1
+borders
+
+
+
+
+
+
+
+1
+no
+
+
+
+
+
+
+
+
+
+
+
+
+1
+longer
+
+
+
+
+
+
+
+
+1
+exist
+
+
+
+
+
+
+
+
+
+1
+any
+
+
+
+
+
+
+
+
+
+
+
+2
+globe
+
+
+
+
+
+
+
+
+
+1
+walk
+
+
+
+
+
+
+
+
+
+
+1
+aisles
+
+
+
+
+
+
+
+
+1
+travel
+
+
+
+
+
+
+
+
+1
+conversing
+
+
+
+
+1
+philosophers
+
+
+1
+poets
+
+
+
+
+
+
+
+
+
+1
+past
+
+
+
+
+
+
+
+
+
+
+1
+wisdom
+
+
+
+
+
+
+
+
+1
+stored
+
+
+
+
+
+
+
+
+1
+stacks
+
+
+
+
+
+
+
+
+1
+waiting
+
+
+
+
+
+
+
+1
+curious
+
+
+
+
+
+
+
+1
+mind
+
+
+
+
+
+
+
+
+
+
+1
+unlock
+
+
+
+
+
+
+
+
+1
+held
+
+
+
+
+
+
+
+
+
+
+1
+within
+
+
+
+
+
+
+
+
+2
+text
+
+
+
+
+
+
+
+
+
+
+1
+cathedral
+
+
+
+
+
+1
+thought
+
+
+
+
+
+
+
+1
+where
+
+
+
+
+
+
+
+
+
+2
+roar
+
+
+
+
+
+
+
+
+
+
+1
+outside
+
+
+
+
+
+
+
+1
+replaced
+
+
+
+
+
+
+1
+profound
+
+
+
+
+
+
+1
+stillness
+
+
+
+
+
+1
+emerald
+
+
+
+
+
+
+
+1
+forest
+
+
+
+
+
+
+
+
+2
+canopy
+
+
+
+
+
+
+
+
+1
+so
+
+
+
+
+
+
+
+
+
+
+
+
+1
+thick
+
+
+
+
+
+
+
+
+
+1
+creates
+
+
+
+
+
+
+
+1
+perpetual
+
+
+
+
+
+1
+twilight
+
+
+
+
+
+
+1
+moss
+
+
+
+
+
+
+
+
+
+
+1
+carpets
+
+
+
+
+
+
+
+1
+roots
+
+
+
+
+
+
+
+
+
+1
+trees
+
+
+
+
+
+
+
+
+
+1
+stood
+
+
+
+
+
+
+
+
+
+1
+centuries
+
+
+
+
+
+1
+branches
+
+
+
+
+
+
+1
+brightly
+
+
+
+
+
+
+1
+colored
+
+
+
+
+
+
+
+1
+orchids
+
+
+
+
+
+
+
+1
+hang
+
+
+
+
+
+
+
+
+
+
+1
+bark
+
+
+
+
+
+
+
+
+
+
+1
+adding
+
+
+
+
+
+
+
+
+1
+splashes
+
+
+
+
+
+
+1
+pink
+
+
+
+
+
+
+
+
+
+
+1
+purple
+
+
+
+
+
+
+
+
+1
+endless
+
+
+
+
+
+
+
+1
+humidity
+
+
+
+
+
+
+1
+buzzing
+
+
+
+
+
+
+
+1
+insects
+
+
+
+
+
+
+
+1
+performing
+
+
+
+
+1
+daily
+
+
+
+
+
+
+
+
+
+1
+rituals
+
+
+
+
+
+
+
+1
+survival
+
+
+
+
+
+
+1
+waterfall
+
+
+
+
+
+1
+tumbles
+
+
+
+
+
+
+
+1
+over
+
+
+
+
+
+
+
+
+
+
+1
+limestone
+
+
+
+
+
+1
+ledge
+
+
+
+
+
+
+
+
+
+1
+feeding
+
+
+
+
+
+
+
+1
+crystal-clear
+
+1
+pool
+
+
+
+
+
+
+
+
+
+
+1
+deer
+
+
+
+
+
+
+
+
+
+
+1
+come
+
+
+
+
+
+
+
+
+
+
+1
+drink
+
+
+
+
+
+
+
+
+
+1
+evolution
+
+
+
+
+
+1
+has
+
+
+
+
+
+
+
+
+
+
+
+1
+crafted
+
+
+
+
+
+
+
+1
+leaf
+
+
+
+
+
+
+
+
+
+
+1
+predator
+
+
+
+
+
+
+1
+fit
+
+
+
+
+
+
+
+
+
+
+
+1
+perfectly
+
+
+
+
+
+1
+complex
+
+
+
+
+
+
+
+1
+beautiful
+
+
+
+
+
+1
+ecosystem
+
+
+
+
+
+1
+quickly
+
+
+
+
+
+
+
+1
+jaguars
+
+
+
+
+
+
+
+1
+prowl
+
+
+
+
+
+
+
+
+
+1
+ferns
+
+
+
+
+
+
+
+
+
+1
+eyes
+
+
+
+
+
+
+
+
+
+
+2
+scanning
+
+
+
+
+
+
+1
+sign
+
+
+
+
+
+
+
+
+
+
+1
+movement
+
+
+
+
+
+
+1
+logs
+
+
+
+
+
+
+
+
+
+
+1
+provide
+
+
+
+
+
+
+
+1
+home
+
+
+
+
+
+
+
+
+
+
+1
+fungi
+
+
+
+
+
+
+
+
+
+1
+beetles
+
+
+
+
+
+
+
+1
+decay
+
+
+
+
+
+
+
+
+
+1
+building
+
+
+
+
+
+
+1
+blocks
+
+
+
+
+
+
+
+
+1
+there
+
+
+
+
+
+
+
+
+
+1
+sense
+
+
+
+
+
+
+
+
+
+1
+magic
+
+
+
+
+
+
+
+
+
+1
+feeling
+
+
+
+
+
+
+
+1
+watching
+
+
+
+
+
+
+1
+everything
+
+
+
+
+1
+thousand
+
+
+
+
+
+
+1
+highest
+
+
+
+
+
+
+
+1
+leaves
+
+
+
+
+
+
+
+
+1
+whispering
+
+
+
+
+1
+gentle
+
+
+
+
+
+
+
+
+1
+breeze
+
+
+
+
+
+
+
+
+1
+the												88
+deep											2
+blue											1
+ocean										1
+stretches						1
+infinitely					1
+toward									2
+horizon								1
+meeting								1
+sky												1
+in													15
+a														31
+seamless							1
+blur											1
+of													56
+azure										1
+and												23
+gray											2
+beneath								1
+surface								1
+silent									2
+world										3
+thrives								2
+with											9
+vibrant								1
+coral										1
+reefs										1
+schools								1
+silver									1
+fish											1
+darting								1
+through								9
+shadows								2
+sunlight							1
+pierces								1
+upper										1
+layers									1
+water										1
+creating							1
+dancing								1
+patterns							2
+light										3
+on													7
+sandy										1
+floor										2
+below										3
+giant										2
+whales									1
+glide										1
+depths									1
+their										5
+low												1
+songs										1
+echoing								2
+across									3
+hundreds							1
+miles										1
+salt											1
+silt											1
+small										3
+crustaceans				1
+scuttle								1
+along										1
+jagged									2
+rocks										1
+searching						1
+for												9
+scraps									1
+food											2
+dark											2
+cold											1
+crevices							1
+every										5
+wave											1
+that											13
+crashes								1
+against								2
+shore										1
+carries								1
+scent										3
+brine										1
+whispers							1
+ancient								3
+tides										1
+rhythmic							1
+pulse										2
+tide											1
+governs								1
+lives										1
+countless						1
+creatures						1
+residing							1
+shallow								1
+pools										1
+seagulls							1
+cry												1
+out												2
+as													5
+they											1
+dive											1
+into											4
+foam											1
+hoping									1
+to													18
+catch										1
+quick										1
+meal											1
+before									2
+sun												2
+sets											1
+this											2
+vast											1
+expanse								1
+balance								1
+nature									2
+remains								2
+delicate							1
+yet												1
+remarkably					1
+resilient						1
+passing								1
+time											2
+sea												3
+mystery								1
+many											1
+powerful							1
+force										1
+both											2
+gives										1
+takes										1
+indifference			1
+high											1
+above										1
+clouds									1
+mountain							1
+peaks										1
+stand										2
+sentinels						1
+guarding							1
+secrets								2
+frozen									1
+north										1
+snow											1
+blankets							1
+cliffs									1
+pristine							1
+layer										2
+white										1
+sparkles							1
+like											3
+diamonds							1
+under										1
+moon											1
+air												4
+is													12
+thin											1
+crisp										1
+carrying							1
+faint										1
+pine											1
+needles								1
+promise								1
+coming									1
+storm										1
+explorers						1
+often										1
+dream										1
+reaching							2
+these										3
+heights								1
+driven									1
+by													3
+desire									1
+see												1
+from											4
+new												2
+perspective				1
+however								1
+climb										1
+treacherous				1
+filled									1
+hidden									3
+patches								2
+ice												1
+sudden									1
+gusts										1
+freezing							1
+wind											1
+only											2
+hardiest							1
+alpine									1
+plants									1
+manage									1
+cling										1
+rocky										1
+soil											2
+blooming							1
+briefly								1
+short										1
+summer									1
+eagles									1
+soar											1
+thermals							1
+looking								2
+down											1
+upon											1
+valley									1
+floors									1
+seem											1
+tiny											1
+green										2
+far												1
+sound										2
+rushing								1
+meltwater						1
+fills										1
+it													3
+begins									1
+its												1
+long											2
+journey								1
+each											1
+stone										1
+path											1
+tells										1
+story										1
+geological					1
+shifts									1
+happened							1
+millions							2
+years										1
+humans									1
+existed								1
+at													2
+summit									1
+feel											1
+incredibly					1
+deeply									1
+connected						1
+earth										1
+heart										1
+bustling							1
+city											2
+neon											1
+lights									1
+flicker								1
+life											4
+golden									2
+dips											1
+skyline								1
+crowds									1
+people									1
+move											2
+single									1
+organism							1
+flowing								1
+subway									1
+stations							1
+wide											1
+paved										1
+avenues								1
+smell										1
+street									1
+wafts										1
+mixing									1
+rain											1
+hitting								1
+warm											1
+asphalt								1
+yellow									1
+taxis										1
+honk											1
+horns										1
+frantic								1
+symphony							1
+defines								1
+energetic						1
+pace											1
+modern									2
+urban										1
+tall											1
+skyscrapers				1
+made											1
+glass										1
+steel										1
+reflect								1
+glowing								1
+advertisements	1
+decorate							1
+available						1
+corner									1
+inside									1
+narrow									1
+alleys									1
+cafes										1
+offer										1
+quiet										1
+sanctuary						1
+those										1
+escape									1
+constant							1
+noise										1
+artists								1
+paint										1
+murals									1
+brick										1
+walls										1
+injecting						1
+bursts									1
+color										1
+landscape						1
+concrete							1
+jungle									1
+technology					1
+hums											1
+background					1
+connecting					1
+souls										1
+invisible						1
+waves										1
+data											1
+digital								1
+signals								1
+nightlife						1
+brings									1
+different						1
+kind											1
+energy									1
+music										1
+spilling							1
+doorways							1
+laughter							1
+parks										1
+even											1
+dead											1
+night										1
+never										1
+truly										1
+sleeps									1
+remaining						1
+testament						1
+human										1
+ambition							1
+grit											1
+library								1
+smells									1
+aged											1
+parchment						1
+dust											1
+lingering						1
+thoughts							1
+authors								1
+since										1
+passed									1
+row												2
+after										1
+towering							1
+wooden									1
+shelves								1
+hold											1
+collective					1
+knowledge						1
+civilizations		1
+have											2
+risen										1
+fallen									2
+soft											1
+filters								1
+stained-glass		1
+windows								1
+casting								1
+colorful							1
+worn											1
+leather								1
+covers									1
+books										1
+scholar								1
+sits											1
+heavy										3
+oak												1
+desk											1
+carefully						1
+turning								2
+fragile								1
+pages										1
+fingers								1
+tremble								1
+slightly							1
+ink												1
+stroke									1
+yellowed							1
+paper										1
+represents					1
+moment									1
+discovery						1
+or													1
+plea											1
+future									1
+remembrance				1
+silence								1
+here											2
+respectful					1
+broken									1
+occasional					1
+muffled								1
+thud											1
+closing								1
+volume									1
+maps											1
+forgotten						1
+lands										1
+are												1
+tucked									1
+away											1
+drawers								1
+showing								1
+borders								1
+no													1
+longer									1
+exist										1
+any												2
+globe										1
+walk											1
+aisles									1
+travel									1
+conversing					1
+philosophers			1
+poets										1
+past											1
+wisdom									1
+stored									1
+stacks									1
+waiting								1
+curious								1
+mind											1
+unlock									1
+held											1
+within									2
+text											1
+cathedral						1
+thought								1
+where										2
+roar											1
+outside								1
+replaced							1
+profound							1
+stillness						1
+emerald								1
+forest									2
+canopy									1
+so													1
+thick										1
+creates								1
+perpetual						1
+twilight							1
